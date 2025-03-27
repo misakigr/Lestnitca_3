@@ -1,0 +1,2441 @@
+
+<modelExtract xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<header>
+<modelFilename>D:\Объекты\Московское 15 котельная\Lestnitca_3\Lestnitca_3.dwg</modelFilename>
+<modelUnits>
+<length precision="1" representation="3" unit="3"/>
+<area precision="203" representation="3003" unit="3005"/>
+<angle precision="81" representation="2006" unit="2006"/>
+<weight precision="112" representation="1009" unit="1002"/></modelUnits>
+<extractUnits>
+<length precision="4" representation="3" unit="3"/>
+<area precision="-1" representation="-1" unit="-1"/>
+<angle precision="84" representation="2006" unit="2006"/>
+<weight precision="112" representation="1009" unit="1009"/></extractUnits>
+<project>
+<name>«Реконструкция производственного здания», расположенного по адресу: г.Санкт-Петербург, Московское шоссе, д. 15а, литера Б.</name>
+<number>КБ-04.20-28-КМД</number>
+<client>ООО "Аракс"</client>
+<contractor>Храпов</contractor>
+<detailer>Мисак</detailer></project>
+<extractId>MyModel.ModelExtracts.Key</extractId>
+<updateIndex id="MyModel.ModelExtracts.State"/></header>
+<selection key="0">
+<base>AllMainparts</base>
+<DerivedDocuments>1</DerivedDocuments></selection>
+<tables>
+<boltSet key="1">
+<explodeAble>1</explodeAble>
+<set key="2Na2W" name="2Ш2Г"/>
+<standard key="7798-70"/>
+<diameter>20.000</diameter>
+<material key="8.8" name="8.8"/>
+<item class="Bolt" diameter="20.000">
+<material key="8.8" name="8.8"/>
+<standard key="7798-70" name="7798-70"/>
+<denotation>Болт М20 - 6gx65.88 ГОСТ 7798-70</denotation>
+<weight>228.40</weight></item>
+<item class="Washer" diameter="20.000">
+<material key="5" name="5"/>
+<standard key="11371-78" name="11371-78"/>
+<denotation>Шайба C.20.01.08кп.016 ГОСТ 11371-78</denotation>
+<weight>16.36</weight></item>
+<item class="Nut" diameter="20.000">
+<material key="5" name="5"/>
+<standard key="5915-70" name="5915-70"/>
+<denotation>Гайка М20 6Н.5 ГОСТ 5915-70</denotation>
+<weight>71.44</weight></item>
+<item class="Nut" diameter="20.000">
+<material key="5" name="5"/>
+<standard key="5915-70" name="5915-70"/>
+<denotation>Гайка М20 6Н.5 ГОСТ 5915-70</denotation>
+<weight>71.44</weight></item>
+<item class="Washer" diameter="20.000">
+<material key="5" name="5"/>
+<standard key="11371-78" name="11371-78"/>
+<denotation>Шайба C.20.01.08кп.016 ГОСТ 11371-78</denotation>
+<weight>16.36</weight></item></boltSet>
+<anchorSet key="1">
+<explodeAble>0</explodeAble>
+<set key="MuS" name="ШГ"/>
+<standard key="HILTI HST"/>
+<diameter>20.000</diameter>
+<material key="1.4401" name="1.4401"/>
+<item class="Anchor" diameter="20.000">
+<material key="1.4401" name="1.4401"/>
+<standard key="HILTI HST" name="HILTI HST"/>
+<denotation>HILTI HST M20/60</denotation>
+<weight>550.00</weight></item>
+<item class="Washer" diameter="20.000">
+<material key="1.4401" name="1.4401"/>
+<standard key="Flat" name="Плоский"/>
+<denotation>M20 Плоская шайба - A4</denotation>
+<weight>17.00</weight></item>
+<item class="Nut" diameter="20.000">
+<material key="1.4401" name="1.4401"/>
+<standard key="HEX" name="ШЕСТИГРАННЫЙ"/>
+<denotation>М20 Шестигранная гайка - A4</denotation>
+<weight>60.00</weight></item></anchorSet>
+<anchorSet key="2">
+<explodeAble>0</explodeAble>
+<set key="MuS" name="ШГ"/>
+<standard key="HILTI HST"/>
+<diameter>16.000</diameter>
+<material key="1.4401" name="1.4401"/>
+<item class="Anchor" diameter="16.000">
+<material key="1.4401" name="1.4401"/>
+<standard key="HILTI HST" name="HILTI HST"/>
+<denotation>HILTI HST M16/50</denotation>
+<weight>290.00</weight></item>
+<item class="Washer" diameter="16.000">
+<material key="1.4401" name="1.4401"/>
+<standard key="Flat" name="Плоский"/>
+<denotation>M16 Плоская шайба - A4</denotation>
+<weight>11.00</weight></item>
+<item class="Nut" diameter="16.000">
+<material key="1.4401" name="1.4401"/>
+<standard key="HEX" name="ШЕСТИГРАННЫЙ"/>
+<denotation>М16 Шестигранная гайка - A4</denotation>
+<weight>33.00</weight></item></anchorSet>
+<profileSection key="RUS_S30245-3#@§@#SHS180x5" sectionClass="H">
+<weightPerMeter>26970.000000</weightPerMeter>
+<paintAreaPerMeter>703000.000000</paintAreaPerMeter></profileSection>
+<profileSection key="RUS_U8240-97P#@§@#U24P" sectionClass="U">
+<weightPerMeter>24000.000000</weightPerMeter>
+<paintAreaPerMeter>806634.750000</paintAreaPerMeter></profileSection>
+<profileSection key="RUS_S30245-3#@§@#SHS100x5" sectionClass="H">
+<weightPerMeter>14410.000000</weightPerMeter>
+<paintAreaPerMeter>383000.000000</paintAreaPerMeter></profileSection>
+<profileSection key="RUS_S30245-3#@§@#SHS120x5" sectionClass="H">
+<weightPerMeter>17550.000000</weightPerMeter>
+<paintAreaPerMeter>463000.000000</paintAreaPerMeter></profileSection></tables>
+<parts>
+<mainpart id="7166A" num="К1-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="7156C" basepart="49DC0" id="7156B">
+<assemblyWeight>251579.94</assemblyWeight>
+<assemblyExactWeight>248440.07</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71602" num="2" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49DC1" class="Beam" dstvName="Гн.&#x9;180x5" id="49DC0" name="Гн.&#x9;180x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Column" name="Колонна"/>
+<length>8209.999</length>
+<paintArea>5771629.297</paintArea>
+<ObjectTopLevel>8230.000</ObjectTopLevel>
+<ObjectBottomLevel>20.001</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>221423.67</weight>
+<exactWeight>221423.67</exactWeight>
+<weightPerMeter>26970.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS180x5" name="Гн.&#x9;180x5"/>
+<sysLength>8230.000</sysLength>
+<sawLength>8209.999</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9138</ElementID></part></singlepart>
+<singlepart id="71633" num="51" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FD15" class="Plate" dstvName="t 10" id="6FD14" name="t 10x182x289">
+<explicitQuantity>1</explicitQuantity>
+<role key="Gusset" name="Узловая фасонка"/>
+<length>288.639</length>
+<paintArea>114263.194</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>308.639</ObjectTopLevel>
+<ObjectBottomLevel>20.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>4115.66</weight>
+<exactWeight>2882.87</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>181.641</width>
+<area1>52428.792</area1>
+<area2>52428.792</area2>
+<contourLength>940.561</contourLength>
+<ElementID>13916</ElementID></part></singlepart>
+<singlepart id="71631" num="49" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FBE2" class="Plate" dstvName="t 10" id="6FBE1" name="t 10x170x215">
+<explicitQuantity>1</explicitQuantity>
+<role key="Gusset" name="Узловая фасонка"/>
+<length>215.200</length>
+<paintArea>80753.690</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>235.200</ObjectTopLevel>
+<ObjectBottomLevel>20.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>2867.41</weight>
+<exactWeight>2051.67</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>169.737</width>
+<area1>36527.471</area1>
+<area2>36527.471</area2>
+<contourLength>769.875</contourLength>
+<ElementID>12269</ElementID></part></singlepart>
+<singlepart id="71629" num="41" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<part ACADID="6CD8F" class="Plate" dstvName="t 10" id="6CD90" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stiffener#1" name="Ребро жесткости"/>
+<length>200.000</length>
+<paintArea>41800.000</paintArea>
+<ObjectTopLevel>220.000</ObjectTopLevel>
+<ObjectBottomLevel>20.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>1413.00</weight>
+<exactWeight>1020.50</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>90.000</width>
+<area1>18000.000</area1>
+<area2>18000.000</area2>
+<contourLength>580.000</contourLength>
+<ElementID>13647</ElementID>
+<ElementID>13388</ElementID></part>
+<equalpart ACADID="6CB2A" id="6CB29" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<preliminaryNum>К1</preliminaryNum></equalpart></singlepart>
+<singlepart id="7162D" num="45" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6CB0A" class="Plate" dstvName="t 20" id="6CB09" name="t 20x360x360">
+<explicitQuantity>1</explicitQuantity>
+<role key="Baseplate" name="Опорная плита"/>
+<length>360.000</length>
+<paintArea>288000.000</paintArea>
+<numHoles>4</numHoles>
+<ObjectTopLevel>20.000</ObjectTopLevel>
+<ObjectBottomLevel>0.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>20347.20</weight>
+<exactWeight>20040.86</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>20.000</thickness>
+<width>360.000</width>
+<area1>129600.000</area1>
+<area2>129600.000</area2>
+<contourLength>1440.000</contourLength>
+<ElementID>9182</ElementID></part></singlepart></proxy>
+<boltPatternOnSite ACADID="6FD1D" class="BoltPattern" id="6FD1C" name="M20 x 65 7798-70 8.8 - Нет - 2Ш2Г" nameBolt="Болт М20 - 6gx65.88 ГОСТ 7798-70" num="54" setBoltsType="1" setkey="1">
+<explicitQuantity>1</explicitQuantity>
+<set key="2Na2W" name="2Ш2Г"/>
+<numBolts>2</numBolts>
+<role key="Bolt#1" name="Болт"/>
+<standard key="7798-70" name="7798-70"/>
+<diameter>20.000</diameter>
+<material key="8.8" name="8.8"/>
+<density>0.00</density>
+<boltLength>65.000</boltLength>
+<fitLength>18.000</fitLength>
+<fitLengthIncrement>0.000</fitLengthIncrement>
+<holeTolerance>3.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>71633,7156B;7162B,715C3;</ConnectedPartsIds></boltPatternOnSite>
+<boltPatternOnSite ACADID="6FBEA" class="BoltPattern" id="6FBE9" name="M20 x 65 7798-70 8.8 - Нет - 2Ш2Г" nameBolt="Болт М20 - 6gx65.88 ГОСТ 7798-70" num="54" setBoltsType="1" setkey="1">
+<explicitQuantity>1</explicitQuantity>
+<set key="2Na2W" name="2Ш2Г"/>
+<numBolts>2</numBolts>
+<role key="Bolt#1" name="Болт"/>
+<standard key="7798-70" name="7798-70"/>
+<diameter>20.000</diameter>
+<material key="8.8" name="8.8"/>
+<density>0.00</density>
+<boltLength>65.000</boltLength>
+<fitLength>18.000</fitLength>
+<fitLengthIncrement>0.000</fitLengthIncrement>
+<holeTolerance>3.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>71631,7156B;7162B,715A5;</ConnectedPartsIds></boltPatternOnSite>
+<anchorPatternOnSite ACADID="6CB23" class="AnchorPattern" id="6CB22" name="M20 x 200 HILTI HST 1.4401 - Нет - ШГ" nameBolt="HILTI HST M20/60" num="55" setkey="1">
+<explicitQuantity>1</explicitQuantity>
+<set key="MuS" name="ШГ"/>
+<numBolts>4</numBolts>
+<role key="Anchor_Bolt#1" name="Анкерный болт"/>
+<standard key="HILTI HST" name="HILTI HST"/>
+<diameter>20.000</diameter>
+<material key="1.4401" name="1.4401"/>
+<density>0.00</density>
+<boltLength>200.000</boltLength>
+<unfoldedLength>200.000</unfoldedLength>
+<holeTolerance>5.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>7162D,7156B;</ConnectedPartsIds></anchorPatternOnSite></mainpart>
+<mainpart id="7166B" num="К1-2" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="7156E" basepart="49DCA" id="7156D">
+<assemblyWeight>256678.00</assemblyWeight>
+<assemblyExactWeight>253113.62</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71602" num="2" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49DC9" class="Beam" dstvName="Гн.&#x9;180x5" id="49DCA" name="Гн.&#x9;180x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Column" name="Колонна"/>
+<length>8209.999</length>
+<paintArea>5771629.297</paintArea>
+<ObjectTopLevel>8230.000</ObjectTopLevel>
+<ObjectBottomLevel>20.001</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>221423.67</weight>
+<exactWeight>221423.67</exactWeight>
+<weightPerMeter>26970.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS180x5" name="Гн.&#x9;180x5"/>
+<sysLength>8230.000</sysLength>
+<sawLength>8209.999</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9142</ElementID></part></singlepart>
+<singlepart id="7162F" num="47" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FDCB" class="Plate" dstvName="t 10" id="6FDCA" name="t 10x169x204">
+<explicitQuantity>1</explicitQuantity>
+<role key="Gusset" name="Узловая фасонка"/>
+<length>204.201</length>
+<paintArea>76535.008</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>8221.364</ObjectTopLevel>
+<ObjectBottomLevel>8017.164</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>2710.94</weight>
+<exactWeight>1740.23</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>169.120</width>
+<area1>34534.303</area1>
+<area2>34534.303</area2>
+<contourLength>746.640</contourLength>
+<ElementID>13939</ElementID></part></singlepart>
+<singlepart id="7162C" num="44" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FDC1" class="Plate" dstvName="t 10" id="6FDC0" name="t 10x180x180">
+<explicitQuantity>1</explicitQuantity>
+<length>180.000</length>
+<paintArea>72000.000</paintArea>
+<ObjectTopLevel>8240.000</ObjectTopLevel>
+<ObjectBottomLevel>8230.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>2543.40</weight>
+<exactWeight>2543.40</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>180.000</width>
+<area1>32400.000</area1>
+<area2>32400.000</area2>
+<contourLength>720.000</contourLength>
+<ElementID>13937</ElementID></part></singlepart>
+<singlepart id="71630" num="48" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FC7B" class="Plate" dstvName="t 10" id="6FC7A" name="t 10x170x214">
+<explicitQuantity>1</explicitQuantity>
+<role key="Gusset" name="Узловая фасонка"/>
+<length>214.480</length>
+<paintArea>80411.444</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>234.480</ObjectTopLevel>
+<ObjectBottomLevel>20.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>2854.68</weight>
+<exactWeight>1978.18</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>169.551</width>
+<area1>36365.406</area1>
+<area2>36365.406</area2>
+<contourLength>768.063</contourLength>
+<ElementID>13920</ElementID></part></singlepart>
+<singlepart id="71629" num="41" quantity="4">
+<explicitQuantity>4</explicitQuantity>
+<part ACADID="6E18D" class="Plate" dstvName="t 10" id="6E191" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stiffener#1" name="Ребро жесткости"/>
+<length>200.000</length>
+<paintArea>41800.000</paintArea>
+<ObjectTopLevel>220.000</ObjectTopLevel>
+<ObjectBottomLevel>20.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>1413.00</weight>
+<exactWeight>1020.50</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>90.000</width>
+<area1>18000.000</area1>
+<area2>18000.000</area2>
+<contourLength>580.000</contourLength>
+<ElementID>13809</ElementID>
+<ElementID>13810</ElementID>
+<ElementID>13811</ElementID>
+<ElementID>13812</ElementID></part>
+<equalpart ACADID="6E18C" id="6E18E" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<preliminaryNum>К1</preliminaryNum></equalpart>
+<equalpart ACADID="6E176" id="6E177" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<preliminaryNum>К1</preliminaryNum></equalpart>
+<equalpart ACADID="6E128" id="6E129" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<preliminaryNum>К1</preliminaryNum></equalpart></singlepart>
+<singlepart id="71635" num="53" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4A74E" class="Plate" dstvName="t 20" id="4A74D" name="t 20x370x370">
+<explicitQuantity>1</explicitQuantity>
+<role key="Baseplate" name="Опорная плита"/>
+<length>370.000</length>
+<paintArea>303400.000</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>20.000</ObjectTopLevel>
+<ObjectBottomLevel>0.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>21493.30</weight>
+<exactWeight>21346.13</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>20.000</thickness>
+<width>370.000</width>
+<area1>136900.000</area1>
+<area2>136900.000</area2>
+<contourLength>1480.000</contourLength>
+<ElementID>9201</ElementID></part></singlepart></proxy>
+<boltPatternOnSite ACADID="6FDD3" class="BoltPattern" id="6FDD2" name="M20 x 65 7798-70 8.8 - Нет - 2Ш2Г" nameBolt="Болт М20 - 6gx65.88 ГОСТ 7798-70" num="54" setBoltsType="1" setkey="1">
+<explicitQuantity>1</explicitQuantity>
+<set key="2Na2W" name="2Ш2Г"/>
+<numBolts>2</numBolts>
+<role key="Bolt#1" name="Болт"/>
+<standard key="7798-70" name="7798-70"/>
+<diameter>20.000</diameter>
+<material key="8.8" name="8.8"/>
+<density>0.00</density>
+<boltLength>65.000</boltLength>
+<fitLength>18.000</fitLength>
+<fitLengthIncrement>0.000</fitLengthIncrement>
+<holeTolerance>3.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>7162F,7156D;7162B,715AF;</ConnectedPartsIds></boltPatternOnSite>
+<boltPatternOnSite ACADID="6FC83" class="BoltPattern" id="6FC82" name="M20 x 65 7798-70 8.8 - Нет - 2Ш2Г" nameBolt="Болт М20 - 6gx65.88 ГОСТ 7798-70" num="54" setBoltsType="1" setkey="1">
+<explicitQuantity>1</explicitQuantity>
+<set key="2Na2W" name="2Ш2Г"/>
+<numBolts>2</numBolts>
+<role key="Bolt#1" name="Болт"/>
+<standard key="7798-70" name="7798-70"/>
+<diameter>20.000</diameter>
+<material key="8.8" name="8.8"/>
+<density>0.00</density>
+<boltLength>65.000</boltLength>
+<fitLength>18.000</fitLength>
+<fitLengthIncrement>0.000</fitLengthIncrement>
+<holeTolerance>3.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>71630,7156D;7162B,715A9;</ConnectedPartsIds></boltPatternOnSite>
+<anchorPatternOnSite ACADID="4A767" class="AnchorPattern" id="4A766" name="M20 x 200 HILTI HST 1.4401 - Нет - ШГ" nameBolt="HILTI HST M20/60" num="55" setkey="1">
+<explicitQuantity>1</explicitQuantity>
+<set key="MuS" name="ШГ"/>
+<numBolts>1</numBolts>
+<role key="Anchor_Bolt#1" name="Анкерный болт"/>
+<standard key="HILTI HST" name="HILTI HST"/>
+<diameter>20.000</diameter>
+<material key="1.4401" name="1.4401"/>
+<density>0.00</density>
+<boltLength>200.000</boltLength>
+<unfoldedLength>200.000</unfoldedLength>
+<holeTolerance>5.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>71635,7156D;</ConnectedPartsIds></anchorPatternOnSite></mainpart>
+<mainpart id="7166C" num="К1-3" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="71570" basepart="49DCC" id="7156F">
+<assemblyWeight>246009.87</assemblyWeight>
+<assemblyExactWeight>244526.03</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71602" num="2" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49DCB" class="Beam" dstvName="Гн.&#x9;180x5" id="49DCC" name="Гн.&#x9;180x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Column" name="Колонна"/>
+<length>8209.999</length>
+<paintArea>5771629.297</paintArea>
+<ObjectTopLevel>8230.000</ObjectTopLevel>
+<ObjectBottomLevel>20.001</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>221423.67</weight>
+<exactWeight>221423.67</exactWeight>
+<weightPerMeter>26970.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS180x5" name="Гн.&#x9;180x5"/>
+<sysLength>8230.000</sysLength>
+<sawLength>8209.999</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9143</ElementID></part></singlepart>
+<singlepart id="71629" num="41" quantity="3">
+<explicitQuantity>3</explicitQuantity>
+<part ACADID="6CEA0" class="Plate" dstvName="t 10" id="6CEA1" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stiffener#1" name="Ребро жесткости"/>
+<length>200.000</length>
+<paintArea>41800.000</paintArea>
+<ObjectTopLevel>220.000</ObjectTopLevel>
+<ObjectBottomLevel>20.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>1413.00</weight>
+<exactWeight>1020.50</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>90.000</width>
+<area1>18000.000</area1>
+<area2>18000.000</area2>
+<contourLength>580.000</contourLength>
+<ElementID>13661</ElementID>
+<ElementID>13395</ElementID>
+<ElementID>13662</ElementID></part>
+<equalpart ACADID="6CE8A" id="6CE8B" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<preliminaryNum>К1</preliminaryNum></equalpart>
+<equalpart ACADID="6CC58" id="6CC57" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<preliminaryNum>К1</preliminaryNum></equalpart></singlepart>
+<singlepart id="7162D" num="45" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6CC38" class="Plate" dstvName="t 20" id="6CC37" name="t 20x360x360">
+<explicitQuantity>1</explicitQuantity>
+<role key="Baseplate" name="Опорная плита"/>
+<length>360.000</length>
+<paintArea>288000.000</paintArea>
+<numHoles>4</numHoles>
+<ObjectTopLevel>20.000</ObjectTopLevel>
+<ObjectBottomLevel>0.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>20347.20</weight>
+<exactWeight>20040.86</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>20.000</thickness>
+<width>360.000</width>
+<area1>129600.000</area1>
+<area2>129600.000</area2>
+<contourLength>1440.000</contourLength>
+<ElementID>9197</ElementID></part></singlepart></proxy>
+<anchorPatternOnSite ACADID="6CC51" class="AnchorPattern" id="6CC50" name="M20 x 200 HILTI HST 1.4401 - Нет - ШГ" nameBolt="HILTI HST M20/60" num="55" setkey="1">
+<explicitQuantity>1</explicitQuantity>
+<set key="MuS" name="ШГ"/>
+<numBolts>4</numBolts>
+<role key="Anchor_Bolt#1" name="Анкерный болт"/>
+<standard key="HILTI HST" name="HILTI HST"/>
+<diameter>20.000</diameter>
+<material key="1.4401" name="1.4401"/>
+<density>0.00</density>
+<boltLength>200.000</boltLength>
+<unfoldedLength>200.000</unfoldedLength>
+<holeTolerance>5.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>7162D,7156F;</ConnectedPartsIds></anchorPatternOnSite></mainpart>
+<mainpart id="7166D" num="К1-4" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="71572" basepart="49DCE" id="71571">
+<assemblyWeight>252829.96</assemblyWeight>
+<assemblyExactWeight>249894.05</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71602" num="2" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49DCD" class="Beam" dstvName="Гн.&#x9;180x5" id="49DCE" name="Гн.&#x9;180x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Column" name="Колонна"/>
+<length>8209.999</length>
+<paintArea>5771629.297</paintArea>
+<ObjectTopLevel>8230.000</ObjectTopLevel>
+<ObjectBottomLevel>20.001</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>221423.67</weight>
+<exactWeight>221423.67</exactWeight>
+<weightPerMeter>26970.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS180x5" name="Гн.&#x9;180x5"/>
+<sysLength>8230.000</sysLength>
+<sawLength>8209.999</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9144</ElementID></part></singlepart>
+<singlepart id="71632" num="50" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="70B8E" class="Plate" dstvName="t 10" id="70B8D" name="t 10x171x213">
+<explicitQuantity>1</explicitQuantity>
+<role key="Gusset" name="Узловая фасонка"/>
+<length>212.725</length>
+<paintArea>80644.477</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>8220.420</ObjectTopLevel>
+<ObjectBottomLevel>8007.695</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>2863.69</weight>
+<exactWeight>1804.12</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>171.490</width>
+<area1>36480.094</area1>
+<area2>36480.094</area2>
+<contourLength>768.429</contourLength>
+<ElementID>13957</ElementID></part></singlepart>
+<singlepart id="7162C" num="44" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="70B41" class="Plate" dstvName="t 10" id="70B42" name="t 10x180x180">
+<explicitQuantity>1</explicitQuantity>
+<length>180.000</length>
+<paintArea>72000.000</paintArea>
+<ObjectTopLevel>8240.000</ObjectTopLevel>
+<ObjectBottomLevel>8230.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>2543.40</weight>
+<exactWeight>2543.40</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>180.000</width>
+<area1>32400.000</area1>
+<area2>32400.000</area2>
+<contourLength>720.000</contourLength>
+<ElementID>13954</ElementID></part></singlepart>
+<singlepart id="71629" num="41" quantity="4">
+<explicitQuantity>4</explicitQuantity>
+<part ACADID="6CEE2" class="Plate" dstvName="t 10" id="6CEE3" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stiffener#1" name="Ребро жесткости"/>
+<length>200.000</length>
+<paintArea>41800.000</paintArea>
+<ObjectTopLevel>220.000</ObjectTopLevel>
+<ObjectBottomLevel>20.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>1413.00</weight>
+<exactWeight>1020.50</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>90.000</width>
+<area1>18000.000</area1>
+<area2>18000.000</area2>
+<contourLength>580.000</contourLength>
+<ElementID>13665</ElementID>
+<ElementID>13393</ElementID>
+<ElementID>13664</ElementID>
+<ElementID>13663</ElementID></part>
+<equalpart ACADID="6CECC" id="6CECD" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<preliminaryNum>К1</preliminaryNum></equalpart>
+<equalpart ACADID="6CEB6" id="6CEB7" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<preliminaryNum>К1</preliminaryNum></equalpart>
+<equalpart ACADID="6CC8E" id="6CC8D" name="t 10x90x200">
+<explicitQuantity>1</explicitQuantity>
+<preliminaryNum>К1</preliminaryNum></equalpart></singlepart>
+<singlepart id="7162D" num="45" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6CC6E" class="Plate" dstvName="t 20" id="6CC6D" name="t 20x360x360">
+<explicitQuantity>1</explicitQuantity>
+<role key="Baseplate" name="Опорная плита"/>
+<length>360.000</length>
+<paintArea>288000.000</paintArea>
+<numHoles>4</numHoles>
+<ObjectTopLevel>20.000</ObjectTopLevel>
+<ObjectBottomLevel>0.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>20347.20</weight>
+<exactWeight>20040.86</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К1</preliminaryNum>
+<thickness>20.000</thickness>
+<width>360.000</width>
+<area1>129600.000</area1>
+<area2>129600.000</area2>
+<contourLength>1440.000</contourLength>
+<ElementID>9199</ElementID></part></singlepart></proxy>
+<boltPatternOnSite ACADID="70B96" class="BoltPattern" id="70B95" name="M20 x 65 7798-70 8.8 - Нет - 2Ш2Г" nameBolt="Болт М20 - 6gx65.88 ГОСТ 7798-70" num="54" setBoltsType="1" setkey="1">
+<explicitQuantity>1</explicitQuantity>
+<set key="2Na2W" name="2Ш2Г"/>
+<numBolts>2</numBolts>
+<role key="Bolt#1" name="Болт"/>
+<standard key="7798-70" name="7798-70"/>
+<diameter>20.000</diameter>
+<material key="8.8" name="8.8"/>
+<density>0.00</density>
+<boltLength>65.000</boltLength>
+<fitLength>18.000</fitLength>
+<fitLengthIncrement>0.000</fitLengthIncrement>
+<holeTolerance>3.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>71632,71571;7162B,7159F;</ConnectedPartsIds></boltPatternOnSite>
+<anchorPatternOnSite ACADID="6CC87" class="AnchorPattern" id="6CC86" name="M20 x 200 HILTI HST 1.4401 - Нет - ШГ" nameBolt="HILTI HST M20/60" num="55" setkey="1">
+<explicitQuantity>1</explicitQuantity>
+<set key="MuS" name="ШГ"/>
+<numBolts>4</numBolts>
+<role key="Anchor_Bolt#1" name="Анкерный болт"/>
+<standard key="HILTI HST" name="HILTI HST"/>
+<diameter>20.000</diameter>
+<material key="1.4401" name="1.4401"/>
+<density>0.00</density>
+<boltLength>200.000</boltLength>
+<unfoldedLength>200.000</unfoldedLength>
+<holeTolerance>5.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>7162D,71571;</ConnectedPartsIds></anchorPatternOnSite></mainpart>
+<mainpart id="716A2" num="ЛМ2-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="71574" basepart="49E2A" id="71573">
+<assemblyWeight>104647.98</assemblyWeight>
+<assemblyExactWeight>104647.98</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71609" num="9" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49E29" class="Beam" dstvName="С24П" id="49E2A" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>4360.333</length>
+<paintArea>3517195.761</paintArea>
+<ObjectTopLevel>4510.000</ObjectTopLevel>
+<ObjectBottomLevel>2345.337</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>104647.98</weight>
+<exactWeight>104647.98</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ2</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>4360.333</sysLength>
+<sawLength>4360.333</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9150</ElementID>
+<ElementID>9157</ElementID></part></singlepart></proxy>
+<equalpart ACADID="7157C" explicitQuantity="1" id="7157B">
+<assemblyWeight>104647.98</assemblyWeight>
+<assemblyExactWeight>104647.98</assemblyExactWeight></equalpart></mainpart>
+<mainpart id="71681" num="ЛМ8-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="71576" basepart="49E4A" id="71575">
+<assemblyWeight>70328.63</assemblyWeight>
+<assemblyExactWeight>67609.12</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71622" num="34" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49E4B" class="Beam" dstvName="С24П" id="49E4A" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>1733.705</length>
+<paintArea>1398466.891</paintArea>
+<ObjectTopLevel>2560.000</ObjectTopLevel>
+<ObjectBottomLevel>1570.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>41608.93</weight>
+<exactWeight>40249.17</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ8</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>1677.051</sysLength>
+<sawLength>1733.705</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>13.2825</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>13.2825</angleY2>
+<SawCutInfo>1</SawCutInfo>
+<SawLengthFlangeAtStart>0.000</SawLengthFlangeAtStart>
+<SawLengthWebAtStart>56.656</SawLengthWebAtStart>
+<SawLengthFlangeAtEnd>0.000</SawLengthFlangeAtEnd>
+<SawLengthWebAtEnd>56.656</SawLengthWebAtEnd>
+<ElementID>9153</ElementID></part></singlepart>
+<singlepart id="71626" num="38" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49E8B" class="Beam" dstvName="С24П" id="49E8C" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>1019.999</length>
+<paintArea>822766.616</paintArea>
+<ObjectTopLevel>2560.000</ObjectTopLevel>
+<ObjectBottomLevel>2320.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>24479.98</weight>
+<exactWeight>23800.10</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ8</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>1020.000</sysLength>
+<sawLength>1019.999</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>-13.2825</angleY2>
+<SawCutInfo>1</SawCutInfo>
+<SawLengthFlangeAtStart>0.000</SawLengthFlangeAtStart>
+<SawLengthWebAtStart>0.000</SawLengthWebAtStart>
+<SawLengthFlangeAtEnd>0.000</SawLengthFlangeAtEnd>
+<SawLengthWebAtEnd>56.656</SawLengthWebAtEnd>
+<ElementID>9165</ElementID></part></singlepart>
+<singlepart id="71627" num="39" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49E70" class="Beam" dstvName="С24П" id="49E71" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>176.655</length>
+<paintArea>142496.296</paintArea>
+<ObjectTopLevel>1810.000</ObjectTopLevel>
+<ObjectBottomLevel>1570.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>4239.73</weight>
+<exactWeight>3559.85</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ8</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>120.000</sysLength>
+<sawLength>176.655</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>-13.2825</angleY2>
+<SawCutInfo>1</SawCutInfo>
+<SawLengthFlangeAtStart>0.000</SawLengthFlangeAtStart>
+<SawLengthWebAtStart>0.000</SawLengthWebAtStart>
+<SawLengthFlangeAtEnd>0.000</SawLengthFlangeAtEnd>
+<SawLengthWebAtEnd>56.656</SawLengthWebAtEnd>
+<ElementID>9161</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71664" num="ЛМ3-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="71578" basepart="49E50" id="71577">
+<assemblyWeight>97134.79</assemblyWeight>
+<assemblyExactWeight>97134.79</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7160A" num="10" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49E51" class="Beam" dstvName="С24П" id="49E50" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>4047.283</length>
+<paintArea>3264679.146</paintArea>
+<ObjectTopLevel>1810.000</ObjectTopLevel>
+<ObjectBottomLevel>-214.663</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>97134.79</weight>
+<exactWeight>97134.79</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ3</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>4047.283</sysLength>
+<sawLength>4047.283</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9156</ElementID>
+<ElementID>9155</ElementID></part></singlepart></proxy>
+<equalpart ACADID="7157A" explicitQuantity="1" id="71579">
+<assemblyWeight>97134.79</assemblyWeight>
+<assemblyExactWeight>97134.79</assemblyExactWeight></equalpart></mainpart>
+<mainpart id="71666" num="ЛМ6-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="7157E" basepart="49E69" id="7157D">
+<assemblyWeight>27431.64</assemblyWeight>
+<assemblyExactWeight>27431.64</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7160D" num="13" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49E6A" class="Beam" dstvName="С24П" id="49E69" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>1142.985</length>
+<paintArea>921971.503</paintArea>
+<ObjectTopLevel>1810.000</ObjectTopLevel>
+<ObjectBottomLevel>1570.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>27431.64</weight>
+<exactWeight>27431.64</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ6</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>1142.985</sysLength>
+<sawLength>1142.985</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9158</ElementID>
+<ElementID>9159</ElementID></part></singlepart></proxy>
+<equalpart ACADID="71580" explicitQuantity="1" id="7157F">
+<assemblyWeight>27431.64</assemblyWeight>
+<assemblyExactWeight>27431.64</assemblyExactWeight></equalpart></mainpart>
+<mainpart id="71667" num="ЛМ5-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="71582" basepart="49E73" id="71581">
+<assemblyWeight>28080.00</assemblyWeight>
+<assemblyExactWeight>28080.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7160C" num="12" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49E74" class="Beam" dstvName="С24П" id="49E73" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>1170.000</length>
+<paintArea>943762.657</paintArea>
+<ObjectTopLevel>2560.000</ObjectTopLevel>
+<ObjectBottomLevel>2320.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>28080.00</weight>
+<exactWeight>28080.00</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ5</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>1170.000</sysLength>
+<sawLength>1170.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9163</ElementID>
+<ElementID>9162</ElementID></part></singlepart></proxy>
+<equalpart ACADID="71584" explicitQuantity="1" id="71583">
+<assemblyWeight>28080.00</assemblyWeight>
+<assemblyExactWeight>28080.00</assemblyExactWeight></equalpart></mainpart>
+<mainpart id="71682" num="ЛМ11-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="71586" basepart="49E89" id="71585">
+<assemblyWeight>24480.00</assemblyWeight>
+<assemblyExactWeight>24480.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71625" num="37" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49E8A" class="Beam" dstvName="С24П" id="49E89" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>1020.000</length>
+<paintArea>822767.445</paintArea>
+<ObjectTopLevel>2560.000</ObjectTopLevel>
+<ObjectBottomLevel>2320.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>24480.00</weight>
+<exactWeight>24480.00</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ11</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>1020.000</sysLength>
+<sawLength>1020.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9164</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71668" num="ЛМ4-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="71588" basepart="49E8D" id="71587">
+<assemblyWeight>29040.00</assemblyWeight>
+<assemblyExactWeight>29040.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7160B" num="11" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49E8E" class="Beam" dstvName="С24П" id="49E8D" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>1210.000</length>
+<paintArea>976028.047</paintArea>
+<ObjectTopLevel>4510.000</ObjectTopLevel>
+<ObjectBottomLevel>4270.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>29040.00</weight>
+<exactWeight>29040.00</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ4</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>1210.000</sysLength>
+<sawLength>1210.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9167</ElementID>
+<ElementID>9166</ElementID></part></singlepart></proxy>
+<equalpart ACADID="7158A" explicitQuantity="1" id="71589">
+<assemblyWeight>29040.00</assemblyWeight>
+<assemblyExactWeight>29040.00</assemblyExactWeight></equalpart></mainpart>
+<mainpart id="7165F" num="Б1-1" quantity="3">
+<explicitQuantity>3</explicitQuantity>
+<proxy ACADID="7158C" basepart="49EB3" id="7158B">
+<assemblyWeight>116640.00</assemblyWeight>
+<assemblyExactWeight>116640.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71603" num="3" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49EB4" class="Beam" dstvName="С24П" id="49EB3" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Horizontal_Beam" name="Балка"/>
+<length>4860.000</length>
+<paintArea>3920244.885</paintArea>
+<ObjectTopLevel>4510.000</ObjectTopLevel>
+<ObjectBottomLevel>4270.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>116640.00</weight>
+<exactWeight>116640.00</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>Б1</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>4860.000</sysLength>
+<sawLength>4860.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9173</ElementID>
+<ElementID>9176</ElementID>
+<ElementID>9170</ElementID></part></singlepart></proxy>
+<equalpart ACADID="71592" explicitQuantity="1" id="71591">
+<assemblyWeight>116640.00</assemblyWeight>
+<assemblyExactWeight>116640.00</assemblyExactWeight></equalpart>
+<equalpart ACADID="71598" explicitQuantity="1" id="71597">
+<assemblyWeight>116640.00</assemblyWeight>
+<assemblyExactWeight>116640.00</assemblyExactWeight></equalpart></mainpart>
+<mainpart id="71660" num="Б2-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="7158E" basepart="49EB5" id="7158D">
+<assemblyWeight>87901.00</assemblyWeight>
+<assemblyExactWeight>87901.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71604" num="4" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49EB6" class="Beam" dstvName="Гн.  100x5" id="49EB5" name="Гн.  100x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Horizontal_Beam" name="Балка"/>
+<length>6100.000</length>
+<paintArea>2336300.000</paintArea>
+<ObjectTopLevel>4440.000</ObjectTopLevel>
+<ObjectBottomLevel>4340.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>87901.00</weight>
+<exactWeight>87901.00</exactWeight>
+<weightPerMeter>14410.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>Б2</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS100x5" name="Гн.  100x5"/>
+<sysLength>6100.000</sysLength>
+<sawLength>6100.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9171</ElementID>
+<ElementID>9172</ElementID></part></singlepart></proxy>
+<equalpart ACADID="71590" explicitQuantity="1" id="7158F">
+<assemblyWeight>87901.00</assemblyWeight>
+<assemblyExactWeight>87901.00</assemblyExactWeight></equalpart></mainpart>
+<mainpart id="71673" num="К2-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="71594" basepart="49EEA" id="71593">
+<assemblyWeight>38887.68</assemblyWeight>
+<assemblyExactWeight>38734.51</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7161E" num="30" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49EEB" class="Beam" dstvName="Гн.  120x5" id="49EEA" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Column" name="Колонна"/>
+<length>1789.999</length>
+<paintArea>828769.537</paintArea>
+<ObjectTopLevel>1810.000</ObjectTopLevel>
+<ObjectBottomLevel>20.001</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>31414.48</weight>
+<exactWeight>31414.48</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>К2</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>1810.000</sysLength>
+<sawLength>1789.999</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9174</ElementID></part></singlepart>
+<singlepart id="71634" num="52" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4AA5C" class="Plate" dstvName="t 20" id="4AA5B" name="t 20x170x280">
+<explicitQuantity>1</explicitQuantity>
+<role key="Baseplate" name="Опорная плита"/>
+<length>280.000</length>
+<paintArea>113200.000</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>20.000</ObjectTopLevel>
+<ObjectBottomLevel>0.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>7473.20</weight>
+<exactWeight>7320.03</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>К2</preliminaryNum>
+<thickness>20.000</thickness>
+<width>170.000</width>
+<area1>47600.000</area1>
+<area2>47600.000</area2>
+<contourLength>900.000</contourLength>
+<ElementID>9260</ElementID></part></singlepart></proxy>
+<anchorPatternOnSite ACADID="4AA75" class="AnchorPattern" id="4AA74" name="M20 x 200 HILTI HST 1.4401 - Нет - ШГ" nameBolt="HILTI HST M20/60" num="55" setkey="1">
+<explicitQuantity>1</explicitQuantity>
+<set key="MuS" name="ШГ"/>
+<numBolts>2</numBolts>
+<role key="Anchor_Bolt#1" name="Анкерный болт"/>
+<standard key="HILTI HST" name="HILTI HST"/>
+<diameter>20.000</diameter>
+<material key="1.4401" name="1.4401"/>
+<density>0.00</density>
+<boltLength>200.000</boltLength>
+<unfoldedLength>200.000</unfoldedLength>
+<holeTolerance>5.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>71634,71593;</ConnectedPartsIds></anchorPatternOnSite></mainpart>
+<mainpart id="71683" num="ЛМ10-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="71596" basepart="49EEC" id="71595">
+<assemblyWeight>30000.00</assemblyWeight>
+<assemblyExactWeight>30000.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71624" num="36" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49EED" class="Beam" dstvName="С24П" id="49EEC" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>1250.000</length>
+<paintArea>1008293.437</paintArea>
+<ObjectTopLevel>1810.000</ObjectTopLevel>
+<ObjectBottomLevel>1570.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>30000.00</weight>
+<exactWeight>30000.00</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ10</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>1250.000</sysLength>
+<sawLength>1250.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9175</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71669" num="ЛМ1-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="7159A" basepart="49EFC" id="71599">
+<assemblyWeight>150720.00</assemblyWeight>
+<assemblyExactWeight>150720.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71608" num="8" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49EFD" class="Beam" dstvName="С24П" id="49EFC" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>6280.000</length>
+<paintArea>5065666.230</paintArea>
+<ObjectTopLevel>4510.000</ObjectTopLevel>
+<ObjectBottomLevel>4270.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>150720.00</weight>
+<exactWeight>150720.00</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ1</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>6280.000</sysLength>
+<sawLength>6280.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9177</ElementID>
+<ElementID>9178</ElementID></part></singlepart></proxy>
+<equalpart ACADID="7159C" explicitQuantity="1" id="7159B">
+<assemblyWeight>150720.00</assemblyWeight>
+<assemblyExactWeight>150720.00</assemblyExactWeight></equalpart></mainpart>
+<mainpart id="71684" num="ЛМ7-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="7159E" basepart="49F00" id="7159D">
+<assemblyWeight>57840.00</assemblyWeight>
+<assemblyExactWeight>57840.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71621" num="33" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49F01" class="Beam" dstvName="С24П" id="49F00" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>2410.000</length>
+<paintArea>1943989.748</paintArea>
+<ObjectTopLevel>4510.000</ObjectTopLevel>
+<ObjectBottomLevel>4270.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>57840.00</weight>
+<exactWeight>57840.00</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ7</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>2410.000</sysLength>
+<sawLength>2410.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9179</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71674" num="СВ4-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715A0" basepart="49F3F" id="7159F">
+<assemblyWeight>107335.69</assemblyWeight>
+<assemblyExactWeight>107288.24</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71615" num="21" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="49F40" class="Beam" dstvName="Гн.  120x5" id="49F3F" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>5978.227</length>
+<paintArea>2767919.306</paintArea>
+<ObjectTopLevel>8108.458</ObjectTopLevel>
+<ObjectBottomLevel>4461.725</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>104917.89</weight>
+<exactWeight>104917.89</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ4</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>6264.184</sysLength>
+<sawLength>5978.227</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9180</ElementID></part></singlepart>
+<singlepart id="7162A" num="42" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="70BA1" class="Plate" dstvName="t 10" id="70BA0" name="t 10x140x140">
+<explicitQuantity>1</explicitQuantity>
+<role key="Cover#3" name="Покрытие"/>
+<length>140.000</length>
+<paintArea>44800.000</paintArea>
+<ObjectTopLevel>8122.443</ObjectTopLevel>
+<ObjectBottomLevel>8003.864</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>1538.60</weight>
+<exactWeight>1538.60</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>СВ4</preliminaryNum>
+<thickness>10.000</thickness>
+<width>140.000</width>
+<area1>19600.000</area1>
+<area2>19600.000</area2>
+<contourLength>560.000</contourLength>
+<ElementID>13959</ElementID></part></singlepart>
+<singlepart id="7162B" num="43" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="70B92" class="Plate" dstvName="t 8" id="70B91" name="t 8x100x140">
+<explicitQuantity>1</explicitQuantity>
+<role key="SandwichPlate#2" name="Пластина пакета"/>
+<length>140.000</length>
+<paintArea>31840.000</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>8181.828</ObjectTopLevel>
+<ObjectBottomLevel>8009.803</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>879.20</weight>
+<exactWeight>831.75</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>СВ4</preliminaryNum>
+<thickness>8.000</thickness>
+<width>100.000</width>
+<area1>14000.000</area1>
+<area2>14000.000</area2>
+<contourLength>480.000</contourLength>
+<ElementID>13958</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71662" num="РФ2-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="715A2" basepart="4A791" id="715A1">
+<assemblyWeight>41128.30</assemblyWeight>
+<assemblyExactWeight>41063.45</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71607" num="7" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4A792" class="Beam" dstvName="Гн.  120x5" id="4A791" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Girder" name="Ригель"/>
+<length>2087.999</length>
+<paintArea>966743.537</paintArea>
+<ObjectTopLevel>2100.000</ObjectTopLevel>
+<ObjectBottomLevel>12.001</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>36644.38</weight>
+<exactWeight>36644.38</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>РФ2</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>2100.000</sysLength>
+<sawLength>2087.999</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>9240</ElementID>
+<ElementID>13943</ElementID></part></singlepart>
+<singlepart id="7162E" num="46" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="70595" class="Plate" dstvName="t 12" id="70594" name="t 12x170x280">
+<explicitQuantity>1</explicitQuantity>
+<role key="Baseplate" name="Опорная плита"/>
+<length>280.000</length>
+<paintArea>106000.000</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>12.000</ObjectTopLevel>
+<ObjectBottomLevel>0.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>4483.92</weight>
+<exactWeight>4419.07</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>РФ2</preliminaryNum>
+<thickness>12.000</thickness>
+<width>170.000</width>
+<area1>47600.000</area1>
+<area2>47600.000</area2>
+<contourLength>900.000</contourLength>
+<ElementID>9242</ElementID>
+<ElementID>13945</ElementID></part></singlepart></proxy>
+<equalpart ACADID="715CA" explicitQuantity="1" id="715C9">
+<assemblyWeight>41128.30</assemblyWeight>
+<assemblyExactWeight>41063.45</assemblyExactWeight></equalpart>
+<anchorPatternOnSite ACADID="705AE" class="AnchorPattern" id="705AD" name="M16 x 165 HILTI HST 1.4401 - Нет - ШГ" nameBolt="HILTI HST M16/50" num="56" setkey="2">
+<explicitQuantity>1</explicitQuantity>
+<set key="MuS" name="ШГ"/>
+<numBolts>2</numBolts>
+<role key="Anchor_Bolt#1" name="Анкерный болт"/>
+<standard key="HILTI HST" name="HILTI HST"/>
+<diameter>16.000</diameter>
+<material key="1.4401" name="1.4401"/>
+<density>0.00</density>
+<boltLength>165.000</boltLength>
+<unfoldedLength>165.000</unfoldedLength>
+<holeTolerance>5.000</holeTolerance>
+<mountLocation>0</mountLocation>
+<ConnectedPartsIds>7162E,715A1;</ConnectedPartsIds>
+<equalpart ACADID="705D0" id="705CF" name="M16 x 165 HILTI HST 1.4401 - Нет - ШГ">
+<explicitQuantity>1</explicitQuantity>
+<ConnectedPartsIds>7162E,715C9;</ConnectedPartsIds></equalpart></anchorPatternOnSite></mainpart>
+<mainpart id="71663" num="СВ1-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="715A4" basepart="4FDE3" id="715A3">
+<assemblyWeight>129185.17</assemblyWeight>
+<assemblyExactWeight>129185.17</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71606" num="6" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FDE4" class="Beam" dstvName="Гн.  120x5" id="4FDE3" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>7360.978</length>
+<paintArea>3408132.905</paintArea>
+<ObjectTopLevel>8281.189</ObjectTopLevel>
+<ObjectBottomLevel>4338.811</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>129185.17</weight>
+<exactWeight>129185.17</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ1</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>7360.978</sysLength>
+<sawLength>7360.978</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10732</ElementID>
+<ElementID>10730</ElementID></part></singlepart></proxy>
+<equalpart ACADID="715A8" explicitQuantity="1" id="715A7">
+<assemblyWeight>129185.17</assemblyWeight>
+<assemblyExactWeight>129185.17</assemblyExactWeight></equalpart></mainpart>
+<mainpart id="71675" num="СВ2-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715A6" basepart="4FDE5" id="715A5">
+<assemblyWeight>132001.80</assemblyWeight>
+<assemblyExactWeight>131954.34</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71613" num="19" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FDE6" class="Beam" dstvName="Гн.  120x5" id="4FDE5" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>7383.704</length>
+<paintArea>3418654.723</paintArea>
+<ObjectTopLevel>4463.449</ObjectTopLevel>
+<ObjectBottomLevel>131.960</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>129584.00</weight>
+<exactWeight>129584.00</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ2</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>7664.735</sysLength>
+<sawLength>7383.704</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10731</ElementID></part></singlepart>
+<singlepart id="7162A" num="42" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FBF5" class="Plate" dstvName="t 10" id="6FBF4" name="t 10x140x140">
+<explicitQuantity>1</explicitQuantity>
+<role key="Cover#3" name="Покрытие"/>
+<length>140.000</length>
+<paintArea>44800.000</paintArea>
+<ObjectTopLevel>238.473</ObjectTopLevel>
+<ObjectBottomLevel>118.033</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>1538.60</weight>
+<exactWeight>1538.60</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>СВ2</preliminaryNum>
+<thickness>10.000</thickness>
+<width>140.000</width>
+<area1>19600.000</area1>
+<area2>19600.000</area2>
+<contourLength>560.000</contourLength>
+<ElementID>12684</ElementID></part></singlepart>
+<singlepart id="7162B" num="43" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FBE6" class="Plate" dstvName="t 8" id="6FBE5" name="t 8x100x140">
+<explicitQuantity>1</explicitQuantity>
+<role key="SandwichPlate#2" name="Пластина пакета"/>
+<length>140.000</length>
+<paintArea>31840.000</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>232.740</ObjectTopLevel>
+<ObjectBottomLevel>60.702</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>879.20</weight>
+<exactWeight>831.75</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>СВ2</preliminaryNum>
+<thickness>8.000</thickness>
+<width>100.000</width>
+<area1>14000.000</area1>
+<area2>14000.000</area2>
+<contourLength>480.000</contourLength>
+<ElementID>12688</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71676" num="СВ3-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715AA" basepart="4FE02" id="715A9">
+<assemblyWeight>131766.51</assemblyWeight>
+<assemblyExactWeight>131719.05</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71614" num="20" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE03" class="Beam" dstvName="Гн.  120x5" id="4FE02" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>7370.297</length>
+<paintArea>3412447.398</paintArea>
+<ObjectTopLevel>4439.250</ObjectTopLevel>
+<ObjectBottomLevel>130.989</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>129348.71</weight>
+<exactWeight>129348.71</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ3</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>7650.837</sysLength>
+<sawLength>7370.297</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10734</ElementID></part></singlepart>
+<singlepart id="7162A" num="42" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FC8E" class="Plate" dstvName="t 10" id="6FC8D" name="t 10x140x140">
+<explicitQuantity>1</explicitQuantity>
+<role key="Cover#3" name="Покрытие"/>
+<length>140.000</length>
+<paintArea>44800.000</paintArea>
+<ObjectTopLevel>237.696</ObjectTopLevel>
+<ObjectBottomLevel>117.068</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>1538.60</weight>
+<exactWeight>1538.60</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>СВ3</preliminaryNum>
+<thickness>10.000</thickness>
+<width>140.000</width>
+<area1>19600.000</area1>
+<area2>19600.000</area2>
+<contourLength>560.000</contourLength>
+<ElementID>13922</ElementID></part></singlepart>
+<singlepart id="7162B" num="43" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FC7F" class="Plate" dstvName="t 8" id="6FC7E" name="t 8x100x140">
+<explicitQuantity>1</explicitQuantity>
+<role key="SandwichPlate#2" name="Пластина пакета"/>
+<length>140.000</length>
+<paintArea>31840.000</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>231.984</ObjectTopLevel>
+<ObjectBottomLevel>59.950</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>879.20</weight>
+<exactWeight>831.75</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>СВ3</preliminaryNum>
+<thickness>8.000</thickness>
+<width>100.000</width>
+<area1>14000.000</area1>
+<area2>14000.000</area2>
+<contourLength>480.000</contourLength>
+<ElementID>13921</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71677" num="СВ5-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715AC" basepart="4FE23" id="715AB">
+<assemblyWeight>67340.11</assemblyWeight>
+<assemblyExactWeight>67340.11</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71616" num="22" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE24" class="Beam" dstvName="Гн.  120x5" id="4FE23" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>3837.043</length>
+<paintArea>1776550.970</paintArea>
+<ObjectTopLevel>8288.326</ObjectTopLevel>
+<ObjectBottomLevel>7271.674</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>67340.11</weight>
+<exactWeight>67340.11</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ5</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>3837.043</sysLength>
+<sawLength>3837.043</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10735</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71678" num="СВ9-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715AE" basepart="4FE26" id="715AD">
+<assemblyWeight>54570.36</assemblyWeight>
+<assemblyExactWeight>54570.36</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7161B" num="27" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE27" class="Beam" dstvName="Гн.  120x5" id="4FE26" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>3109.422</length>
+<paintArea>1439662.421</paintArea>
+<ObjectTopLevel>7355.278</ObjectTopLevel>
+<ObjectBottomLevel>4484.721</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>54570.36</weight>
+<exactWeight>54570.36</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ9</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>3109.422</sysLength>
+<sawLength>3109.422</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10736</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71679" num="СВ13-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715B0" basepart="4FE28" id="715AF">
+<assemblyWeight>25407.46</assemblyWeight>
+<assemblyExactWeight>25360.01</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71620" num="32" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE29" class="Beam" dstvName="Гн.  120x5" id="4FE28" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>1309.952</length>
+<paintArea>606507.922</paintArea>
+<ObjectTopLevel>8121.229</ObjectTopLevel>
+<ObjectBottomLevel>7280.546</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>22989.66</weight>
+<exactWeight>22989.66</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ13</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>1589.371</sysLength>
+<sawLength>1309.952</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10737</ElementID></part></singlepart>
+<singlepart id="7162A" num="42" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FDDE" class="Plate" dstvName="t 10" id="6FDDD" name="t 10x140x140">
+<explicitQuantity>1</explicitQuantity>
+<role key="Cover#3" name="Покрытие"/>
+<length>140.000</length>
+<paintArea>44800.000</paintArea>
+<ObjectTopLevel>8135.135</ObjectTopLevel>
+<ObjectBottomLevel>8014.081</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>1538.60</weight>
+<exactWeight>1538.60</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>СВ13</preliminaryNum>
+<thickness>10.000</thickness>
+<width>140.000</width>
+<area1>19600.000</area1>
+<area2>19600.000</area2>
+<contourLength>560.000</contourLength>
+<ElementID>13941</ElementID></part></singlepart>
+<singlepart id="7162B" num="43" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FDCF" class="Plate" dstvName="t 8" id="6FDCE" name="t 8x100x140">
+<explicitQuantity>1</explicitQuantity>
+<role key="SandwichPlate#2" name="Пластина пакета"/>
+<length>140.000</length>
+<paintArea>31840.000</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>8191.761</ObjectTopLevel>
+<ObjectBottomLevel>8019.743</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>879.20</weight>
+<exactWeight>831.75</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>СВ13</preliminaryNum>
+<thickness>8.000</thickness>
+<width>100.000</width>
+<area1>14000.000</area1>
+<area2>14000.000</area2>
+<contourLength>480.000</contourLength>
+<ElementID>13940</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="7166E" num="РФ7-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715B2" basepart="4FE2C" id="715B1">
+<assemblyWeight>16715.60</assemblyWeight>
+<assemblyExactWeight>16715.60</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71612" num="18" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE2D" class="Beam" dstvName="Гн.  100x5" id="4FE2C" name="Гн.  100x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Girder" name="Ригель"/>
+<length>1160.000</length>
+<paintArea>444280.000</paintArea>
+<ObjectTopLevel>4180.000</ObjectTopLevel>
+<ObjectBottomLevel>4080.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>16715.60</weight>
+<exactWeight>16715.60</exactWeight>
+<weightPerMeter>14410.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>РФ7</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS100x5" name="Гн.  100x5"/>
+<sysLength>1160.000</sysLength>
+<sawLength>1160.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10738</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71661" num="РФ1-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="715B4" basepart="4FE32" id="715B3">
+<assemblyWeight>21903.20</assemblyWeight>
+<assemblyExactWeight>21903.20</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71605" num="5" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE33" class="Beam" dstvName="Гн.  100x5" id="4FE32" name="Гн.  100x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Girder" name="Ригель"/>
+<length>1520.000</length>
+<paintArea>582160.000</paintArea>
+<ObjectTopLevel>4080.000</ObjectTopLevel>
+<ObjectBottomLevel>2560.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>21903.20</weight>
+<exactWeight>21903.20</exactWeight>
+<weightPerMeter>14410.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>РФ1</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS100x5" name="Гн.  100x5"/>
+<sysLength>1520.000</sysLength>
+<sawLength>1520.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10741</ElementID>
+<ElementID>10742</ElementID></part></singlepart></proxy>
+<equalpart ACADID="715B6" explicitQuantity="1" id="715B5">
+<assemblyWeight>21903.20</assemblyWeight>
+<assemblyExactWeight>21903.20</assemblyExactWeight></equalpart></mainpart>
+<mainpart id="7167A" num="СВ8-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715B8" basepart="4FE3A" id="715B7">
+<assemblyWeight>56519.17</assemblyWeight>
+<assemblyExactWeight>56519.17</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7161A" num="26" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE3B" class="Beam" dstvName="Гн.  120x5" id="4FE3A" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>3220.466</length>
+<paintArea>1491075.668</paintArea>
+<ObjectTopLevel>4319.372</ObjectTopLevel>
+<ObjectBottomLevel>2390.628</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>56519.17</weight>
+<exactWeight>56519.17</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ8</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>3220.466</sysLength>
+<sawLength>3220.466</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10744</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="7167B" num="СВ10-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715BA" basepart="4FE3C" id="715B9">
+<assemblyWeight>37536.17</assemblyWeight>
+<assemblyExactWeight>37536.17</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7161C" num="28" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE3D" class="Beam" dstvName="Гн.  120x5" id="4FE3C" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>2138.813</length>
+<paintArea>990270.377</paintArea>
+<ObjectTopLevel>4301.139</ObjectTopLevel>
+<ObjectBottomLevel>2410.632</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>37536.17</weight>
+<exactWeight>37536.17</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ10</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>2138.813</sysLength>
+<sawLength>2138.813</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10745</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="7166F" num="РФ6-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715BC" basepart="4FE47" id="715BB">
+<assemblyWeight>17292.00</assemblyWeight>
+<assemblyExactWeight>17292.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71611" num="17" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE48" class="Beam" dstvName="Гн.  100x5" id="4FE47" name="Гн.  100x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Girder" name="Ригель"/>
+<length>1200.000</length>
+<paintArea>459600.000</paintArea>
+<ObjectTopLevel>7100.000</ObjectTopLevel>
+<ObjectBottomLevel>5900.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>17292.00</weight>
+<exactWeight>17292.00</exactWeight>
+<weightPerMeter>14410.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>РФ6</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS100x5" name="Гн.  100x5"/>
+<sysLength>1200.000</sysLength>
+<sawLength>1200.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10746</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71670" num="РФ4-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715BE" basepart="4FE49" id="715BD">
+<assemblyWeight>53317.00</assemblyWeight>
+<assemblyExactWeight>53317.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7160F" num="15" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE4A" class="Beam" dstvName="Гн.  100x5" id="4FE49" name="Гн.  100x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Girder" name="Ригель"/>
+<length>3700.000</length>
+<paintArea>1417100.000</paintArea>
+<ObjectTopLevel>7200.000</ObjectTopLevel>
+<ObjectBottomLevel>7100.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>53317.00</weight>
+<exactWeight>53317.00</exactWeight>
+<weightPerMeter>14410.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>РФ4</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS100x5" name="Гн.  100x5"/>
+<sysLength>3700.000</sysLength>
+<sawLength>3700.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10747</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71671" num="РФ5-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715C0" basepart="4FE4C" id="715BF">
+<assemblyWeight>17364.05</assemblyWeight>
+<assemblyExactWeight>17364.05</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71610" num="16" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE4D" class="Beam" dstvName="Гн.  100x5" id="4FE4C" name="Гн.  100x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Girder" name="Ригель"/>
+<length>1205.000</length>
+<paintArea>461515.000</paintArea>
+<ObjectTopLevel>7105.000</ObjectTopLevel>
+<ObjectBottomLevel>5900.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>17364.05</weight>
+<exactWeight>17364.05</exactWeight>
+<weightPerMeter>14410.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>РФ5</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS100x5" name="Гн.  100x5"/>
+<sysLength>1205.000</sysLength>
+<sawLength>1205.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10748</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71672" num="РФ3-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715C2" basepart="4FE64" id="715C1">
+<assemblyWeight>60687.57</assemblyWeight>
+<assemblyExactWeight>60687.57</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7160E" num="14" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE65" class="Beam" dstvName="Гн.  100x5" id="4FE64" name="Гн.  100x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Girder" name="Ригель"/>
+<length>4211.490</length>
+<paintArea>1613000.732</paintArea>
+<ObjectTopLevel>5900.000</ObjectTopLevel>
+<ObjectBottomLevel>5800.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>60687.57</weight>
+<exactWeight>60687.57</exactWeight>
+<weightPerMeter>14410.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>РФ3</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS100x5" name="Гн.  100x5"/>
+<sysLength>4211.490</sysLength>
+<sawLength>4211.490</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10749</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="7167C" num="СВ12-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715C4" basepart="4FE67" id="715C3">
+<assemblyWeight>33164.85</assemblyWeight>
+<assemblyExactWeight>33117.40</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7161F" num="31" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="4FE68" class="Beam" dstvName="Гн.  120x5" id="4FE67" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>1751.969</length>
+<paintArea>811161.586</paintArea>
+<ObjectTopLevel>1610.217</ObjectTopLevel>
+<ObjectBottomLevel>229.642</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>30747.05</weight>
+<exactWeight>30747.05</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ12</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>2088.660</sysLength>
+<sawLength>1751.969</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10750</ElementID></part></singlepart>
+<singlepart id="7162A" num="42" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FD28" class="Plate" dstvName="t 10" id="6FD27" name="t 10x140x140">
+<explicitQuantity>1</explicitQuantity>
+<role key="Cover#3" name="Покрытие"/>
+<length>140.000</length>
+<paintArea>44800.000</paintArea>
+<ObjectTopLevel>316.779</ObjectTopLevel>
+<ObjectBottomLevel>215.517</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>1538.60</weight>
+<exactWeight>1538.60</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>СВ12</preliminaryNum>
+<thickness>10.000</thickness>
+<width>140.000</width>
+<area1>19600.000</area1>
+<area2>19600.000</area2>
+<contourLength>560.000</contourLength>
+<ElementID>13918</ElementID></part></singlepart>
+<singlepart id="7162B" num="43" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="6FD19" class="Plate" dstvName="t 8" id="6FD18" name="t 8x100x140">
+<explicitQuantity>1</explicitQuantity>
+<role key="SandwichPlate#2" name="Пластина пакета"/>
+<length>140.000</length>
+<paintArea>31840.000</paintArea>
+<numHoles>2</numHoles>
+<ObjectTopLevel>309.358</ObjectTopLevel>
+<ObjectBottomLevel>141.307</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>879.20</weight>
+<exactWeight>831.75</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>СВ12</preliminaryNum>
+<thickness>8.000</thickness>
+<width>100.000</width>
+<area1>14000.000</area1>
+<area2>14000.000</area2>
+<contourLength>480.000</contourLength>
+<ElementID>13917</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71685" num="ЛМ9-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715C6" basepart="5A0B4" id="715C5">
+<assemblyWeight>40249.22</assemblyWeight>
+<assemblyExactWeight>40249.22</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71623" num="35" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="5A0B2" class="Beam" dstvName="С24П" id="5A0B4" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>1677.051</length>
+<paintArea>1352767.597</paintArea>
+<ObjectTopLevel>2560.000</ObjectTopLevel>
+<ObjectBottomLevel>1595.337</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>40249.22</weight>
+<exactWeight>40249.22</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ9</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>1677.051</sysLength>
+<sawLength>1677.051</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10756</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71686" num="ЛМ12-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715C8" basepart="5A0B5" id="715C7">
+<assemblyWeight>2880.00</assemblyWeight>
+<assemblyExactWeight>2880.00</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71628" num="40" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="5A0B3" class="Beam" dstvName="С24П" id="5A0B5" name="С24П">
+<explicitQuantity>1</explicitQuantity>
+<role key="Stringer" name="Косоур"/>
+<length>120.000</length>
+<paintArea>96796.174</paintArea>
+<ObjectTopLevel>1810.000</ObjectTopLevel>
+<ObjectBottomLevel>1570.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>2880.00</weight>
+<exactWeight>2880.00</exactWeight>
+<weightPerMeter>24000.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>ЛМ12</preliminaryNum>
+<section key="RUS_U8240-97P#@§@#U24P" name="С24П"/>
+<sysLength>120.000</sysLength>
+<sawLength>120.000</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>10757</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="7167D" num="СВ11-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715CC" basepart="706EF" id="715CB">
+<assemblyWeight>33887.35</assemblyWeight>
+<assemblyExactWeight>33887.35</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7161D" num="29" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="706F0" class="Beam" dstvName="Гн.  120x5" id="706EF" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>1930.903</length>
+<paintArea>894008.040</paintArea>
+<ObjectTopLevel>4315.930</ObjectTopLevel>
+<ObjectBottomLevel>2981.664</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>33887.35</weight>
+<exactWeight>33887.35</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ11</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>1930.903</sysLength>
+<sawLength>1930.903</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>13949</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="7167E" num="СВ6-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715CE" basepart="706F1" id="715CD">
+<assemblyWeight>66204.73</assemblyWeight>
+<assemblyExactWeight>66204.73</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71618" num="24" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="706F2" class="Beam" dstvName="Гн.  120x5" id="706F1" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>3772.350</length>
+<paintArea>1746597.840</paintArea>
+<ObjectTopLevel>4326.653</ObjectTopLevel>
+<ObjectBottomLevel>2970.942</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>66204.73</weight>
+<exactWeight>66204.73</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ6</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>3772.350</sysLength>
+<sawLength>3772.350</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>13950</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="7167F" num="СВ7-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715D0" basepart="706F3" id="715CF">
+<assemblyWeight>59128.50</assemblyWeight>
+<assemblyExactWeight>59128.50</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71619" num="25" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="706F4" class="Beam" dstvName="Гн.  120x5" id="706F3" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Tie beam" name="Связь"/>
+<length>3369.145</length>
+<paintArea>1559914.319</paintArea>
+<ObjectTopLevel>3053.917</ObjectTopLevel>
+<ObjectBottomLevel>-26.323</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>59128.50</weight>
+<exactWeight>59128.50</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>СВ7</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>3369.145</sysLength>
+<sawLength>3369.145</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>13951</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71680" num="РФ8-1" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<proxy ACADID="715D2" basepart="709F6" id="715D1">
+<assemblyWeight>67193.52</assemblyWeight>
+<assemblyExactWeight>67193.52</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="71617" num="23" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="709F7" class="Beam" dstvName="Гн.  120x5" id="709F6" name="Гн.  120x5">
+<explicitQuantity>1</explicitQuantity>
+<role key="Girder" name="Ригель"/>
+<length>3828.691</length>
+<paintArea>1772683.763</paintArea>
+<ObjectTopLevel>2220.000</ObjectTopLevel>
+<ObjectBottomLevel>2100.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>67193.52</weight>
+<exactWeight>67193.52</exactWeight>
+<weightPerMeter>17550.00</weightPerMeter>
+<density>7850.00</density>
+<preliminaryNum>РФ8</preliminaryNum>
+<section key="RUS_S30245-3#@§@#SHS120x5" name="Гн.  120x5"/>
+<sysLength>3828.691</sysLength>
+<sawLength>3828.691</sawLength>
+<angleX1>0.0000</angleX1>
+<angleY1>0.0000</angleY1>
+<angleX2>0.0000</angleX2>
+<angleY2>0.0000</angleY2>
+<SawCutInfo>0</SawCutInfo>
+<ElementID>13952</ElementID></part></singlepart></proxy></mainpart>
+<mainpart id="71687" num="1-1" quantity="2">
+<explicitQuantity>2</explicitQuantity>
+<proxy ACADID="715D4" basepart="70B3E" id="715D3">
+<assemblyWeight>2543.40</assemblyWeight>
+<assemblyExactWeight>2543.40</assemblyExactWeight>
+<collisionSize x="0.000" y="0.000" z="0.000"/>
+<ApprovalStatus>Не установлено</ApprovalStatus>
+<GalvanizingConstructionClass>Нет</GalvanizingConstructionClass>
+<GalvanizingDetailClass>Нет</GalvanizingDetailClass>
+<GalvanizingConfidence>Нет</GalvanizingConfidence>
+<singlepart id="7162C" num="44" quantity="1">
+<explicitQuantity>1</explicitQuantity>
+<part ACADID="70B3D" class="Plate" dstvName="t 10" id="70B3E" name="t 10x180x180">
+<explicitQuantity>1</explicitQuantity>
+<length>180.000</length>
+<paintArea>72000.000</paintArea>
+<ObjectTopLevel>8240.000</ObjectTopLevel>
+<ObjectBottomLevel>8230.000</ObjectBottomLevel>
+<material key="C235" name="С235"/>
+<coating key="grundiert" name="Грунтовка"/>
+<weight>2543.40</weight>
+<exactWeight>2543.40</exactWeight>
+<density>7850.00</density>
+<preliminaryNum>1</preliminaryNum>
+<thickness>10.000</thickness>
+<width>180.000</width>
+<area1>32400.000</area1>
+<area2>32400.000</area2>
+<contourLength>720.000</contourLength>
+<ElementID>13953</ElementID>
+<ElementID>13955</ElementID></part></singlepart></proxy>
+<equalpart ACADID="715D6" explicitQuantity="1" id="715D5">
+<assemblyWeight>2543.40</assemblyWeight>
+<assemblyExactWeight>2543.40</assemblyExactWeight></equalpart></mainpart></parts>
+<DerivedDocuments>
+<Details/>
+<BOMs/>
+<DSTVFiles/></DerivedDocuments></modelExtract>
+
